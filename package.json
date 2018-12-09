@@ -1,0 +1,21 @@
+{
+  "name": "udemy_restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.15",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.7"
+  }
+}
